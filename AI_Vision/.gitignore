@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+interview.db
+interview.db-journal
+interview.db-wal
+interview.db-shm
