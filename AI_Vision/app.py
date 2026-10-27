@@ -430,7 +430,7 @@ with st.sidebar:
 # ---------------- DASHBOARD ----------------
 
 if page == "Dashboard":
-    st.title("Your Dashboard 👋")
+    st.title("Your Dashboard")
 
     st.write(
         f"Welcome back, {st.session_state.candidate_name}!"
